@@ -6,10 +6,10 @@ Nämä on tehty kurssin **ensimmäisellä** viikolla:
 
 [komentorivi.txt](https://github.com/hautamakih/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
 
-###Työaikakirjanpito###
+### Työaikakirjanpito
 
 [tyoaikakirjanpito.md](https://github.com/hautamakih/ot-harjoitustyo/blob/main/dokumentaatio/tyoaikakirjanpito.md)
 
-###Vaatimusmäärittely###
+### Vaatimusmäärittely
 
-[vaatimusmaarittely.md]()
+[vaatimusmaarittely.md](https://github.com/hautamakih/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
