@@ -2,7 +2,7 @@
 
 ## Sovelluksen tarkoitus
 
-Työssä toteutettava sovellus on funktiolaskin. Sovelluksessa ei ole käyttäjäprofiileja, ja sovelluksen tarkoituksena on toteuttaa toimiva funktiolaskin, jolla laskeminen tapahtuu graafista käyttöliittymää hyödyntäeen.
+Työssä toteutettava sovellus on funktiolaskin. Sovelluksessa ei ole käyttäjäprofiileja. Sovelluksen tarkoituksena on toteuttaa toimiva funktiolaskin, jolla laskeminen tapahtuu graafista käyttöliittymää hyödyntäeen.
 
 ## Perusversion tarjoama toiminnallisuus
 
